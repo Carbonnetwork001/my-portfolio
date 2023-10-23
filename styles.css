@@ -3,9 +3,7 @@ img {
     width: 100px;
     display: inline-block;
     float: none;
-    margin-left: auto;
-    margin-right: auto;
-}
+    }
 body {
     background-color: antiquewhite;
      }
@@ -21,4 +19,10 @@ p {
 
 .paragraph {
     text-align: left;
+}
+
+.profile {
+    float: center;
+    padding-left:  50%;
+    padding-right: 50%;
 }
