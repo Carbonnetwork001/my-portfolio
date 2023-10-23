@@ -3,6 +3,8 @@ img {
     width: 100px;
     display: inline-block;
     float: none;
+    margin-left: auto;
+    margin-right: auto;
 }
 body {
     background-color: antiquewhite;
